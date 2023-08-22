@@ -1,0 +1,7 @@
+.container {
+  margin: 0 15px;
+}
+.button {
+  display: flex;
+  gap: 20px;
+}
